@@ -28,12 +28,12 @@ This guide walks you through installing mods for Baldur’s Gate 3 using Script 
 
 2. Place the `DWrite.dll` file into the game's **bin** folder:
 
-   1. Open Steam  
-   2. Right-click **Baldur’s Gate 3** → Properties  
-   3. Go to **Installed Files**  
-   4. Click **Browse...**  
-   5. Open the `bin` folder  
-   6. Paste the `DWrite.dll` file there
+   I. Open Steam  
+   II. Right-click **Baldur’s Gate 3** → Properties  
+   III. Go to **Installed Files**  
+   IV. Click **Browse...**  
+   V. Open the `bin` folder  
+   VI. Paste the `DWrite.dll` file there
 
 
 3. After placing the Script Extender on the bin folder **start the game once more** to register that you have the extender
