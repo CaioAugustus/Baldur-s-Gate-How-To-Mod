@@ -75,4 +75,4 @@ If it fails, manually set the pathways in `Settings -> Preferences, click 'Save'
 
 ## Final Step
 
-1. If you did all the steps correctly the game should be ready to go from the start, just start a new game and have fun !!!
+ If you did all the steps correctly the game should be ready to go from the start, just start a new game and have fun !!!
