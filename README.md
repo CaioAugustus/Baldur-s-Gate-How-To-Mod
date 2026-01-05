@@ -21,7 +21,7 @@
 ### What is Script Extender?
 The Script Extender allows more advanced mods to work on Baldur's Gate 3 - He expands scripting support of the game. Without him, many mods that use more complex features may not work.
 
-2. Put the (`.dll`) on the folder:
+2. Put the (`DWrite.dll`) on the folder:
    `Steam > Baldur's Gate 3 > Properties > Installed Files > Browse... > bin`
 
 3. After placing the Script Extender on the bin folder **start the game once more** to register that you have the extender
