@@ -1,5 +1,3 @@
 # Baldur-s-Gate-How-To-Mod
-Just to make it easier
-
-
-# Tá vendo
+So you're looking to install some mods, that's good
+But be advised **Mods can break existing saves**
