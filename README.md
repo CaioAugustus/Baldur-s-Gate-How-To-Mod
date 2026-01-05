@@ -37,3 +37,23 @@ The Script Extender allows more advanced mods to work on Baldur's Gate 3 - He ex
 
 If it fails, manually set the pathways in `Settings -> Preferences, click 'Save', then click the 'Refresh' button` so the campaign mod data is loaded.
 <img width="800" height="498" alt="image" src="https://github.com/user-attachments/assets/428e3983-b185-4d25-b550-838fb564c526" />
+
+3. Organize your active mods for the profile Public, then click the first export button (Export Load Order to Game), or click File -> Export Order to Game, to export your active load order to the game. This updates the modsettings.lsx file that the game reads.
+<img width="1400" height="307" alt="image" src="https://github.com/user-attachments/assets/f67214d4-784b-4b8d-a039-40674d0629a5" />
+
+---
+
+## 3° Step
+
+1. Download the mods from the [**Google Drive**](https://drive.google.com/file/d/19uDig96Evsv_rpExWqkExnuCB_ixiXz2/view?usp=drive_link)
+
+2. Extract them into the Mod Manager Aplication
+
+3. After doing all of that, Export the mods to the game by pressing this button:
+   <img width="1400" height="307" alt="image" src="https://github.com/user-attachments/assets/30e923a1-9b96-4534-93c4-5b35ff6cd95c" />
+
+---
+
+## Final Step
+
+1. If you did all the steps correctly the game should be ready to go from the start, just start a new game and have fun !!!
