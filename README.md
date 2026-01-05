@@ -21,11 +21,10 @@ This guide walks you through installing mods for Baldur’s Gate 3 using Script 
 
 ## Step 1 — Script Extender
 
+**Official Source Here: https://github.com/Norbyte/bg3se**
+
 1. Download the Script Extender below:
    [**Script Extender**]([https://github.com/CaioAugustus/Baldur-s-Gate-How-To-Mod/raw/refs/heads/main/DWrite.dll](https://github.com/CaioAugustus/Baldur-s-Gate-How-To-Mod/raw/refs/heads/main/Norbyte's%20Baldur's%20Gate%203%20Beta%20Script%20Extender-2172-2024April-30-1715333040.7z))
-
-### What is Script Extender?
-The Script Extender allows more advanced mods to work on Baldur's Gate 3 - It expands the scripting support of the game. Without it, many mods that use more complex features may not work.
 
 2. Place the `DWrite.dll` file into the game's **bin** folder:
 
@@ -39,16 +38,23 @@ The Script Extender allows more advanced mods to work on Baldur's Gate 3 - It ex
 
 3. After placing the Script Extender on the bin folder **start the game once more** to register that you have the extender
 
+### What is Script Extender?
+The Script Extender allows more advanced mods to work on Baldur's Gate 3 - It expands the scripting support of the game. Without it, many mods that use more complex features may not work.
+
 ---
 
 
 ## Step 2 - Mod Manager
+
+**Oficcial Source Here: https://github.com/LaughingLeader/BG3ModManager?tab=readme-ov-file** 
 
 1. Install the [**Baldur's Gate 3 Mod Manager**](https://github.com/LaughingLeader/BG3ModManager/releases/latest/download/BG3ModManager_Latest.zip)
 
 2. After downloading the Mod Manager, Extract it anywhere you want (Desktop is recommended), then run the `.exe`. After running the .exe the Mod Manager should automatically detect the pathways to the game data and exe.
 
 If it fails, manually set the pathways in `Settings -> Preferences, click 'Save', then click the 'Refresh' button` so the campaign mod data is loaded.
+
+
 <img width="800" height="498" alt="image" src="https://github.com/user-attachments/assets/428e3983-b185-4d25-b550-838fb564c526" />
 
 3. Organize your active mods for the profile Public, then click the first export button (Export Load Order to Game), or click File -> Export Order to Game, to export your active load order to the game. This updates the modsettings.lsx file that the game reads.
