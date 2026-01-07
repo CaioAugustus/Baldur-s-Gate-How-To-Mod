@@ -88,4 +88,4 @@ After booting up the game, go to the mod manager option and enable all the mods,
 
  ## Extra - Client Side Mods
 
-Maybe you want some mods that improve your gameplay client side, well, the **Client Side Mod** may help you
+Maybe you want some mods that improve your gameplay client side, well, the [**Client Side Mod**](https://github.com/CaioAugustus/Baldur-s-Gate-How-To-Mod/releases/tag/Client-Side-Modding) may help you
