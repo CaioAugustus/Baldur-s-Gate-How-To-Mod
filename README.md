@@ -64,13 +64,20 @@ If it fails, manually set the pathways in `Settings -> Preferences, click 'Save'
 
 ## Step 3 - Mods
 
-1. Download the mods from the [**Google Drive**](https://drive.google.com/drive/folders/1TdT12Jdc4EVN9-alYSgP3iLXSeWHNgXD?usp=sharing)
+1. Download the mods from the [**Google Drive**](https://drive.google.com/file/d/1aSUw62ctiNki3l6NlOniYvB2JH924ICH/view?usp=sharing)
 
 2. Extract them into the Mod Manager Aplication
 
 3. After doing all of that, Export the mods to the game by pressing this button:
    <img width="1400" height="307" alt="image" src="https://github.com/user-attachments/assets/30e923a1-9b96-4534-93c4-5b35ff6cd95c" />
 
+---
+
+## Step 4 - Enabling the mods
+
+After booting up the game, go to the mod manager option and enable all the mods, some mods may have update available, go ahead and update them, after enabling all of them go to the next step.
+
+**You'll need to manually install the mod `Mystra's Spells` inside the mod manager part of the game**
 ---
 
 ## Final Step
