@@ -64,7 +64,7 @@ If it fails, manually set the pathways in `Settings -> Preferences, click 'Save'
 
 ## Step 3 - Mods
 
-1. Download the mods from the [**Google Drive**](https://drive.google.com/file/d/19uDig96Evsv_rpExWqkExnuCB_ixiXz2/view?usp=drive_link)
+1. Download the mods from the [**Google Drive**](https://drive.google.com/drive/folders/1TdT12Jdc4EVN9-alYSgP3iLXSeWHNgXD?usp=sharing)
 
 2. Extract them into the Mod Manager Aplication
 
@@ -76,3 +76,9 @@ If it fails, manually set the pathways in `Settings -> Preferences, click 'Save'
 ## Final Step
 
  If you did all the steps correctly the game should be ready to go from the start, just start a new game and have fun !!!
+
+---
+
+ ## Extra - Client Side Mods
+
+Maybe you want some mods that improve your gameplay client side, well, the **Client Side Mod** may help you
