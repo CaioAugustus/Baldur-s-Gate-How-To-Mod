@@ -24,9 +24,10 @@ This guide walks you through installing mods for Baldur’s Gate 3 using Script 
 **Official Source Here: https://github.com/Norbyte/bg3se**
 
 1. Download the Script Extender below:
-   [**Script Extender**]([https://github.com/CaioAugustus/Baldur-s-Gate-How-To-Mod/raw/refs/heads/main/DWrite.dll](https://github.com/CaioAugustus/Baldur-s-Gate-How-To-Mod/raw/refs/heads/main/Norbyte's%20Baldur's%20Gate%203%20Beta%20Script%20Extender-2172-2024April-30-1715333040.7z))
 
-2. Place the `DWrite.dll` file into the game's **bin** folder:
+   [**SCRIPT EXTENDER**](https://github.com/CaioAugustus/Baldur-s-Gate-How-To-Mod/raw/refs/heads/main/DWrite.dll)
+
+3. Place the `DWrite.dll` file into the game's **bin** folder:
 
    I. Open Steam  
    II. Right-click **Baldur’s Gate 3** → Properties  
@@ -36,7 +37,7 @@ This guide walks you through installing mods for Baldur’s Gate 3 using Script 
    VI. Paste the `DWrite.dll` file there
 
 
-3. After placing the Script Extender on the bin folder **start the game once more** to register that you have the extender
+4. After placing the Script Extender on the bin folder **start the game once more** to register that you have the extender
 
 ### What is Script Extender?
 The Script Extender allows more advanced mods to work on Baldur's Gate 3 - It expands the scripting support of the game. Without it, many mods that use more complex features may not work.
